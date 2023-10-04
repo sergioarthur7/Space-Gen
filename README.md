@@ -1,4 +1,9 @@
 # Space-Gen
-Jogo de tiro no espaço criado em python - BETA
+Jogo de tiro no espaço criado em python - ALPHA
 
-O jogo sairá para você baixar dia 13!
+SpaceGen está disponivel para download!
+
+!LEMBRANDO!
+
+Erros e bugs ainda estão sendo concertados por mim!
+SpaceGen terá atualizações futura!
